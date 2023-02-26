@@ -1,6 +1,7 @@
 # weekly-test-mapping
 This project is a Java-based application developed using Spring Boot that demonstrates the implementation of different types of relationships between data models. The project includes four models - Student, Laptop, Course, and Book - and an embedded model called Address.
 
+### DUE TO SOME TECHNICAL ISSUE, NOT ABLE TO RECORD VIDEO
 ### Data Models
 #### Student
 The Student model represents a student and includes the following fields:
@@ -53,10 +54,17 @@ Student Endpoints
 3. POST /students: Creates a new student.
 4. PUT /students/{id}: Updates an existing student by ID.
 5. DELETE /students/{id}: Deletes a specific student by ID.
-Laptop Endpoints
-1. GET /laptops: Retrieves a list of all laptops.
-2. GET /laptops/{id}: Retrieves a specific laptop by ID.
-3. POST /laptops: Creates a new laptop.
-4. PUT /laptops/{id}: Updates an existing laptop by ID.
-5. DELETE /laptops/{id}: Deletes a specific laptop by ID.
 
+Laptop Endpoints
+1. GET /get-all-laptops: Retrieves a list of all laptops.
+2. GET /get-laptops/{id}: Retrieves a specific laptop by ID.
+3. POST /add-laptops: Creates a new laptop.
+4. PUT /update-laptops/{id}: Updates an existing laptop by ID.
+5. DELETE /delete-laptops/{id}: Deletes a specific laptop by ID.
+
+Book Endpoints
+1. GET /get-all-books: Retrieves a list of all Book.
+2. GET /get-book/{id}: Retrieves a specific Book by ID.
+3. POST /add-Book: Creates a new Book.
+4. PUT /update-Book/{id}: Updates an existing Book by ID.
+5. DELETE /delete-book/{id}: Deletes a specific Book by ID.
