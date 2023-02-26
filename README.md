@@ -73,9 +73,27 @@ Book Endpoints
 5. DELETE /delete-book/{id}: Deletes a specific Book by ID.
 
 ### Screenshots of Table
+
 ![Screenshot (74)](https://user-images.githubusercontent.com/41718548/221421846-503e5bb2-64e1-476c-8404-34cc51c69732.png)
+
 ![Screenshot (75)](https://user-images.githubusercontent.com/41718548/221421854-d86feef0-ea8b-4c01-9ea7-eb9b6b5d26ed.png)
+
 ![Screenshot (76)](https://user-images.githubusercontent.com/41718548/221421860-0bc6f79f-ae72-4810-9e28-3f9a887c5f72.png)
+
 ![Screenshot (77)](https://user-images.githubusercontent.com/41718548/221421863-02291d09-29f8-4913-b210-4c2b6daf7be1.png)
+
 ![Screenshot (73)](https://user-images.githubusercontent.com/41718548/221421867-b28c7589-b913-403b-81ee-21afd7445fb1.png)
 
+### Screenshots of CRUD requests
+
+![Screenshot (83)](https://user-images.githubusercontent.com/41718548/221421947-b49118e5-1fa1-45d8-a254-71fdff11a406.png)
+
+![Screenshot (78)](https://user-images.githubusercontent.com/41718548/221421950-ff584543-5828-4fde-9daa-58b88cfeafef.png)
+
+![Screenshot (79)](https://user-images.githubusercontent.com/41718548/221421953-14aa70a1-9213-4274-97ff-30eeeec789e8.png)
+
+![Screenshot (80)](https://user-images.githubusercontent.com/41718548/221421960-3713b4a4-b36a-48c9-9755-21f3ebb9a864.png)
+
+![Screenshot (81)](https://user-images.githubusercontent.com/41718548/221421963-54339f10-5a9f-4269-8d5f-aef8b383761a.png)
+
+![Screenshot (82)](https://user-images.githubusercontent.com/41718548/221421939-2a5beae7-5541-4732-85f1-a926efd17771.png)
