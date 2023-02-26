@@ -4,29 +4,29 @@ This project is a Java-based application developed using Spring Boot that demons
 ### Data Models
 #### Student
 The Student model represents a student and includes the following fields:
-ID: The unique identifier for the student.
-name: The name of the student.
-age: The age of the student.
-phoneNumber: The phone number of the student.
-branch: The branch of the student.
-department: The department of the student.
-address: An embedded model that represents the address of the student.
-Laptop
+1. ID: The unique identifier for the student.
+2. name: The name of the student.
+3. age: The age of the student.
+4. phoneNumber: The phone number of the student.
+5. branch: The branch of the student.
+6. department: The department of the student.
+7. address: An embedded model that represents the address of the student.
+
+#### Laptop
 The Laptop model represents a laptop and includes the following fields:
+1. ID: The unique identifier for the laptop.
+2. name: The name of the laptop.
+3. brand: The brand of the laptop.
+4. price: The price of the laptop.
+5. student: A one-to-one relationship that represents the student who owns the laptop.
 
-ID: The unique identifier for the laptop.
-name: The name of the laptop.
-brand: The brand of the laptop.
-price: The price of the laptop.
-student: A one-to-one relationship that represents the student who owns the laptop.
-Course
+#### Course
 The Course model represents a course and includes the following fields:
-
-ID: The unique identifier for the course.
-title: The title of the course.
-description: The description of the course.
-duration: The duration of the course.
-studentList: A many-to-many relationship that represents the list of students who are enrolled in the course.
+1. ID: The unique identifier for the course.
+2. title: The title of the course.
+3. description: The description of the course.
+4. duration: The duration of the course.
+5. studentList: A many-to-many relationship that represents the list of students who are enrolled in the course.
 Book
 The Book model represents a book and includes the following fields:
 
