@@ -1,13 +1,9 @@
 # weekly-test-mapping
 This project is a Java-based application developed using Spring Boot that demonstrates the implementation of different types of relationships between data models. The project includes four models - Student, Laptop, Course, and Book - and an embedded model called Address.
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- ### DUE TO SOME TECHNICAL ISSUE, NOT ABLE TO RECORD VIDEO
 ```
-### DUE TO SOME TECHNICAL ISSUE, NOT ABLE TO RECORD VIDEO
+
 ### Data Models
 #### Student
 The Student model represents a student and includes the following fields:
