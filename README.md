@@ -71,3 +71,11 @@ Book Endpoints
 3. POST /add-Book: Creates a new Book.
 4. PUT /update-Book/{id}: Updates an existing Book by ID.
 5. DELETE /delete-book/{id}: Deletes a specific Book by ID.
+
+### Screenshots of Table
+![Screenshot (74)](https://user-images.githubusercontent.com/41718548/221421846-503e5bb2-64e1-476c-8404-34cc51c69732.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/41718548/221421854-d86feef0-ea8b-4c01-9ea7-eb9b6b5d26ed.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/41718548/221421860-0bc6f79f-ae72-4810-9e28-3f9a887c5f72.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/41718548/221421863-02291d09-29f8-4913-b210-4c2b6daf7be1.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/41718548/221421867-b28c7589-b913-403b-81ee-21afd7445fb1.png)
+
